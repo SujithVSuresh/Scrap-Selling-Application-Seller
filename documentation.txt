@@ -1,0 +1,10 @@
+> Felt issue while building configuring the drawer navigation and followed this https://docs.expo.dev/versions/latest/sdk/reanimated/ and solved the issue.
+
+> installed npm i react-native-image-slider-box for image slider.
+> installed react-native-simple-accordion
+> installed @react-native-community/datetimepicker
+> installed expo-image-picker
+> npx expo install react native maps
+> installed npx expo install expo-location - to get current user location
+> npm i react-native-geocoding - to convert coordinates to location name and details.
+> npm i react-native-vector-icons - for icons in react native.
